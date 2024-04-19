@@ -1,0 +1,4 @@
+Scalar Types: String, Int, Float, Boolean, ID!
+! means to not accept null value, To make any property non-nullable
+
+Parameters of resolver: parent args context
